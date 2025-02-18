@@ -1,6 +1,6 @@
 # blog-template
 
-Everything you need to run this locally
+Everything you need to run this locally.
 
 ## Local Development
 
